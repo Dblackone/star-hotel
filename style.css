@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 
 
+body {
+
+}
 hr {
     border: 1.5px solid #D4AF37;
     width: 15vw;
@@ -26,4 +29,22 @@ hr {
     text-align: center;
     letter-spacing: 0.01em;
     color: #241E09;
+}
+.special-offers {
+
+}
+.row {
+    display: flex;
+}
+.col-left {
+    flex: 1;
+}
+.col-right {
+    flex: 1;
+}
+.col {
+    flex: 1;
+}
+.center {
+    text-align: center;
 }
