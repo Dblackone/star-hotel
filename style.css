@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+
+hr {
+    border: 1.5px solid #D4AF37;
+    width: 15vw;
+}
+.star-hotel {
+    text-align: center;
+}
+.star-text {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 45px;
+    letter-spacing: 0.01em;
+    color: #241E09;
+}
+.star-p {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #241E09;
+}
